@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiruthickmurugendran
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning python , java ,golang
+- 🌱 I’m currently learning python , java and golang
 - 💞️ I’m looking to collaborate on startrup companies as an intern
 - 📫 How to reach me kiruthick9555@gmail.com
 - 😄 Pronouns: Mr
